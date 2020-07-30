@@ -1,0 +1,4 @@
+server="localhost"
+database="users_db"
+username="user_test"
+password="user_password"
